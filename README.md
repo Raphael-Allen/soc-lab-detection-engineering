@@ -8,8 +8,16 @@ Kali Linux attacker
 
 The lab replicates a full attack lifecycle, from reconnaissance to persistence, with detection rules built for each stage.
 
-Lab Environment:
-Component	Role	OS
-Kali Linux	Attacker	Kali
-Windows 10	Victim	Windows 10
-Splunk	SIEM	Windows
+---Lab Environment---
+
+Component: Kali Linux 
+Role: Attacker
+OS: Kali
+
+Component: Windows 10	
+Role: Victim	
+OS: Windows 10
+
+Component: Splunk	
+Role: SIEM
+OS: Windows
